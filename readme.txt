@@ -1,1 +1,1 @@
-creat a git is simple and free.
+creat git is simple and free.
