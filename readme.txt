@@ -1,2 +1,1 @@
-hhhhhhhhh
-Creating a new branch is qulick &simple.
+creat a git is simple and free.
