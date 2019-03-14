@@ -1,2 +1,2 @@
 creat git is simple and free.
-modify readme.txt
+git is a free software.
